@@ -1,0 +1,18 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# dist directory
+dist/
+
+# Jetbrains IDE directory
+.idea/
+
+# Environment variables
+.env
